@@ -1,3 +1,5 @@
-amino-new.py
+amino-new.py==4.2.2
 gtts
 requests
+Dick.py==1.2.3
+flask
